@@ -1,4 +1,3 @@
-
 let weather = {
     apikey : "45f9e033651df3d7c72d4602ff556c89",
 
